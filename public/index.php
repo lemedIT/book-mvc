@@ -13,5 +13,5 @@ $app->addRoutes([
     ['GET', '/', 'HomeController@index'],
 ]);
 
-// Lancer l'application
+// Lancer l'application salut
 $app->run();
